@@ -1,0 +1,101 @@
+Gender,Age,Hours_Studied,Attendance,Parental_Education,Final_Score
+Male,,1.0,65.0,Graduate,95.0
+Female,21.0,1.0,80.0,Graduate,70.0
+Male,,3.0,60.0,Postgraduate,60.0
+Male,21.0,2.0,60.0,High School,80.0
+Male,20.0,5.0,80.0,Graduate,
+Female,,6.0,70.0,High School,
+Male,18.0,7.0,75.0,High School,55.0
+Male,18.0,4.0,70.0,High School,90.0
+Male,18.0,7.0,60.0,High School,95.0
+Female,19.0,8.0,60.0,High School,95.0
+Male,19.0,1.0,80.0,High School,50.0
+Male,19.0,6.0,85.0,nan,75.0
+Male,21.0,8.0,70.0,High School,80.0
+Male,19.0,5.0,,High School,85.0
+Female,19.0,4.0,80.0,Postgraduate,95.0
+Male,20.0,2.0,95.0,Postgraduate,90.0
+Female,18.0,6.0,60.0,High School,55.0
+Female,21.0,6.0,80.0,Graduate,
+Female,18.0,1.0,70.0,Graduate,95.0
+Male,,,60.0,High School,55.0
+Female,21.0,6.0,75.0,nan,70.0
+Male,18.0,3.0,80.0,Postgraduate,70.0
+Female,18.0,4.0,90.0,High School,75.0
+Female,21.0,4.0,60.0,High School,60.0
+Female,21.0,3.0,70.0,nan,85.0
+Female,21.0,3.0,65.0,Graduate,50.0
+Female,21.0,3.0,,Graduate,75.0
+Female,18.0,4.0,85.0,Graduate,65.0
+Female,19.0,7.0,70.0,Graduate,50.0
+Female,18.0,4.0,95.0,nan,80.0
+Male,21.0,,95.0,nan,90.0
+Male,20.0,1.0,65.0,Postgraduate,65.0
+Female,19.0,8.0,85.0,Graduate,65.0
+Female,18.0,7.0,90.0,Postgraduate,75.0
+Female,19.0,2.0,65.0,Graduate,60.0
+Male,19.0,8.0,65.0,Graduate,75.0
+Female,21.0,1.0,60.0,High School,80.0
+Male,20.0,,95.0,Postgraduate,
+Male,21.0,,60.0,Postgraduate,95.0
+Male,19.0,2.0,,Graduate,95.0
+Male,18.0,7.0,85.0,Postgraduate,60.0
+Male,21.0,3.0,90.0,Graduate,80.0
+Female,21.0,7.0,90.0,High School,60.0
+Female,20.0,,70.0,High School,55.0
+Female,21.0,4.0,65.0,High School,95.0
+Female,19.0,1.0,,Graduate,65.0
+Female,20.0,2.0,95.0,High School,85.0
+Male,19.0,1.0,90.0,Graduate,90.0
+Female,18.0,5.0,,High School,80.0
+Female,18.0,5.0,75.0,Graduate,50.0
+Male,18.0,7.0,75.0,Graduate,60.0
+Female,20.0,,60.0,Graduate,90.0
+Male,19.0,,95.0,High School,50.0
+Female,20.0,3.0,70.0,High School,90.0
+Male,,3.0,90.0,Graduate,85.0
+Female,18.0,3.0,65.0,Graduate,50.0
+Female,19.0,4.0,65.0,High School,75.0
+Male,21.0,8.0,90.0,nan,70.0
+Male,18.0,6.0,85.0,High School,75.0
+Male,18.0,8.0,70.0,Graduate,95.0
+Male,19.0,1.0,,nan,70.0
+Male,18.0,8.0,85.0,Graduate,75.0
+Male,,4.0,85.0,Graduate,70.0
+Male,21.0,1.0,60.0,Graduate,
+Male,20.0,8.0,75.0,Graduate,70.0
+Female,21.0,4.0,85.0,Postgraduate,65.0
+Female,21.0,6.0,85.0,High School,60.0
+Male,18.0,8.0,80.0,High School,60.0
+Female,21.0,4.0,60.0,Graduate,65.0
+Female,20.0,3.0,95.0,Postgraduate,90.0
+Female,21.0,,80.0,Graduate,55.0
+Female,21.0,3.0,80.0,High School,90.0
+Male,19.0,,90.0,Graduate,50.0
+Female,18.0,2.0,75.0,Postgraduate,50.0
+Male,18.0,2.0,85.0,High School,70.0
+Female,19.0,2.0,75.0,Graduate,75.0
+Female,21.0,6.0,70.0,Graduate,75.0
+Female,21.0,3.0,90.0,Graduate,60.0
+Male,18.0,,95.0,Graduate,80.0
+Female,20.0,4.0,75.0,High School,90.0
+Male,19.0,1.0,65.0,High School,
+Female,18.0,4.0,70.0,High School,95.0
+Male,18.0,1.0,60.0,nan,85.0
+Female,19.0,5.0,95.0,Postgraduate,75.0
+Male,,4.0,70.0,Graduate,85.0
+Male,19.0,8.0,90.0,nan,70.0
+Female,20.0,8.0,80.0,Graduate,85.0
+Male,21.0,7.0,80.0,Graduate,95.0
+Female,19.0,3.0,90.0,Graduate,65.0
+Female,,1.0,,High School,95.0
+Female,,1.0,80.0,High School,85.0
+Female,19.0,3.0,60.0,Graduate,95.0
+Female,19.0,6.0,60.0,Graduate,55.0
+Female,19.0,7.0,65.0,High School,70.0
+Female,19.0,6.0,85.0,nan,90.0
+Female,18.0,6.0,,Postgraduate,65.0
+Female,20.0,6.0,95.0,High School,
+Female,20.0,3.0,80.0,nan,75.0
+Female,18.0,6.0,60.0,nan,50.0
+Male,19.0,8.0,90.0,nan,90.0
